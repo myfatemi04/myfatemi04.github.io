@@ -29,10 +29,10 @@ We have a simple method for eliminating false positives from human supervision. 
 ### Result
 
 The resulting model is $$14$$ Mb, which is great and can run at high Hz. Additionally, it has significantly higher recall than the original foundation model. We have integrated this into our object detection pipeline, and using the simple monocular depth estimation equation from before, we can estimate 3D location:
-![3D Pose Estimation](/images/posts/2024-04-27-detecting-opps/3d_pose_estimation.png)
+![3D Pose Estimation](/images/posts/2024/04/detecting-opps/3d_pose_estimation.png)
 
 Additionally, we find that the resulting model is excellent even in harsh lighting conditions. The following image grid consists only of images that were *not* in the training dataset, because their labels were *not detected successfully by the foundation model:*
-![Harsh Lighting Conditions](/images/posts/2024-04-27-detecting-opps/harsh_lighting_conditions.png)
+![Harsh Lighting Conditions](/images/posts/2024/04/detecting-opps/harsh_lighting_conditions.png)
 
 
 ## Camera Background: Pinhole Camera Model
