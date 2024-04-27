@@ -12,7 +12,7 @@ title                    : "Michael Yoo Fatemi"
 title_separator          : "-"
 name                     : &name "Michael Yoo Fatemi"
 description              : &description "Personal website"
-url                      : https://myfatem04.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://myfatemi04.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "myfatemi04/myfatemi04.github.io"
 
