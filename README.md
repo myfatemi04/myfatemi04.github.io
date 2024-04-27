@@ -1,7 +1,7 @@
 
-# Academic Pages
+# Michael Yoo Fatemi's Personal Page
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+![pages-build-deployment](https://github.com/myfatemi04/myfatemi04.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 Academic Pages is a Github Pages template for academic websites.
 
