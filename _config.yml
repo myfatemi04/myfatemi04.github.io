@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Michael Yoo Fatemi"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science and Mathematics at UVA"
+  bio              : "Computer Science and Math"
   location         : "Charlottesville, Virginia"
   employer         : "University of Virginia"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=1gCo6jIAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0003-3916-6318"
+  orcid            : "https://orcid.org/0000-0003-3916-6318"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
@@ -199,18 +199,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults

@@ -11,7 +11,7 @@ redirect_from:
 
 Please see [this page](https://drive.google.com/drive/u/0/folders/1AZSKb9KRKYWAZZih-phYaG5YIrRQps_-) for my most up-to-date CV.
 
-Education
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -63,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
