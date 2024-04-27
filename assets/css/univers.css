@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'Univers';
+	src: url('/assets/fonts/univers/UniversLight.ttf') format('truetype');
+	font-weight: 200;
+}
+
+@font-face {
+	font-family: 'Univers';
+	src: url('/assets/fonts/univers/UniversRegular.ttf') format('truetype');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Univers';
+	src: url('/assets/fonts/univers/UniversBold.ttf') format('truetype');
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'UniversCondensed';
+	src: url('/assets/fonts/univers/UniversCnBold.ttf') format('truetype');
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'UniversCondensed';
+	src: url('/assets/fonts/univers/UniversCnRg.ttf') format('truetype');
+	font-weight: normal;
+}
