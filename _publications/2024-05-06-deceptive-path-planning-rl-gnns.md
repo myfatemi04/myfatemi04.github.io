@@ -3,7 +3,7 @@ title: "Deceptive Path Planning via Reinforcement Learning with Graph Neural Net
 collection: publications
 permalink: /publication/2024-05-06-deceptive-path-planning-rl-gnns
 excerpt: 'We develop robotic path planning methods for adversarial environments using graph neural networks.'
-date: 2009-10-01
+date: 2024-05-06
 venue: 'International Conference on Autonomous Agents and Multiagent Systems'
 paperurl: 'https://arxiv.org/abs/2402.06552'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
