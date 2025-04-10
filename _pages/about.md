@@ -30,8 +30,8 @@ Please check out my [blog posts](/year-archive/) for some fun projects!
 - [Reinforcement Learning with Graph Neural Networks Enables Zero-Shot Deceptive Path Planning Over Arbitrary Graphs](https://github.com/myfatemi04/rl-deceptive-graph-planning) <br/>
   Michael Y. Fatemi, Wesley A. Suttle, Brian M. Sadler (AAMAS, 2024) (extended abstract)
 - [Spatial omics driven crossmodal pretraining applied to graph-based deep learning for cancer pathology analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10783797/) <br/>
-  Zarif L. Azher, Michael Y. Fatemi, Yunrui Lu, Gokul Srinivasan, Alos B. Diallo, Brock C. Christensen, Lucas A. Salas, Fred W. Kolling IV, Laurent Perreard, Scott M. Palisoul, Louis J. Vaickus, Joshua J. Levy
-- [Inferring spatial transcriptomics markers from whole slide images to characterize metastasis-related spatial heterogeneity of colorectal tumors: A pilot study](https://www.sciencedirect.com/science/article/pii/S2153353923001220) (Pacific Symposium on Biocomputing, 2024) <br/>
+  Zarif L. Azher, Michael Y. Fatemi, Yunrui Lu, Gokul Srinivasan, Alos B. Diallo, Brock C. Christensen, Lucas A. Salas, Fred W. Kolling IV, Laurent Perreard, Scott M. Palisoul, Louis J. Vaickus, Joshua J. Levy (Pacific Symposium on Biocomputing, 2024)
+- [Inferring spatial transcriptomics markers from whole slide images to characterize metastasis-related spatial heterogeneity of colorectal tumors: A pilot study](https://www.sciencedirect.com/science/article/pii/S2153353923001220) <br/>
   Michael Y. Fatemi, Eric Feng, Cyril Sharma, Zarif Azher, Tarushii Goel, Ojas Ramwala, Scott M. Palisoul, Rachael E. Barney, Laurent Perreard, Fred W. Kolling, Lucas A. Salas, Brock C. Christensen, Gregory J. Tsongalis, Louis J. Vaickus, Joshua J. Levy (Journal of Pathology Informatics, 2023)
 
 ## Activities
