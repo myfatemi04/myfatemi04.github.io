@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Michael Yoo Fatemi, an undergraduate studying Mathematics and Computer Science at the University of Virginia/UVA. I'm broadly interested in reinforcement learning and intelligent systems. This summer, I will be in Sunnyvale as an AI Resident at [1X Robotics](https://1x.tech/).
+Hi, I'm Michael Yoo Fatemi, an undergraduate studying Mathematics and Computer Science at the University of Virginia/UVA. I'm broadly interested in robotics and intelligent systems. This summer, I will be in Sunnyvale as an AI Resident at [1X Robotics](https://1x.tech/) working on foundation world models to train humanoid robots.
+
+**I will be applying for a PhD in 2025 Fall. Please feel free to reach out, I would appreciate any connections!**
 
 Please check out my [blog posts](/year-archive/) for some fun projects!
 
@@ -15,11 +17,11 @@ Please check out my [blog posts](/year-archive/) for some fun projects!
 
 <!-- - **2023-2024**: Robotics Research Assistant at [UVA Collaborative Robotics Lab](https://www.collabrobotics.com/) -->
 
-- **2024 (June-)**: Research Intern at the [OSU NLP Group](https://ysu1989.github.io/) (Self-Improving Language Agents for Web Navigation)
-- **2024 (June-Aug)**: Research Intern at the [US Army Research Lab](http://www.arl.army.mil/) (Scene Reconstruction with Natural Language Grounding)
-- **2023 (June-Aug)**: Research Intern at the [US Army Research Lab](http://www.arl.army.mil/) (Reinforcement Learning)
-- **2022-2023**: Software Engineering Intern at [Kyron Learning](https://kyronlearning.com/) (Language Model Agents)
-- **2022-2023**: Bioinformatics Research Assistant at with [Dartmouth Levy Lab](https://jlevy44.github.io/levylab/) (Computer Vision)
+- **2024 (June-)**: Web Agents Student Researcher at the [OSU NLP Group](https://ysu1989.github.io/) (Self-Improving Language Agents for Web Navigation)
+- **2024 (June-Aug)**: Robotic Perception Engineering Intern at the [US Army Research Lab](http://www.arl.army.mil/) (Scene Reconstruction with Natural Language Grounding)
+- **2023 (June-Aug)**: Reinforcement Learning Student Researcher at the [US Army Research Lab](http://www.arl.army.mil/) (Reinforcement Learning)
+<!-- - **2022-2023**: Software Engineering Intern at [Kyron Learning](https://kyronlearning.com/) (Language Model Agents) -->
+- **2022-2023**: Bioinformatics Student Researcher at with [Dartmouth Levy Lab](https://jlevy44.github.io/levylab/) (Computer Vision)
 
 ## Publications
 
