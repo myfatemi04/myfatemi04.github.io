@@ -26,7 +26,7 @@ Please check out my [blog posts](/year-archive/) for some fun projects!
 ## Publications
 
 - [SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](https://osu-nlp-group.github.io/SkillWeaver/) <br/>
-  Boyuan Zheng\*, Michael Y. Fatemi\*, Xiaolong Jin\*, Zora Zhiruo Wang, Apurva Gandhi, Yueqi Song, Yu Gu, Jayanth Srinivasa, Gaowen Liu, Graham Neubig, Yu Su (Under review at COLM, 2025) (_Equal contribution_)
+  Boyuan Zheng\*, Michael Y. Fatemi\*, Xiaolong Jin\*, Zora Zhiruo Wang, Apurva Gandhi, Yueqi Song, Yu Gu, Jayanth Srinivasa, Gaowen Liu, Graham Neubig, Yu Su (Under review) (_Equal contribution_)
 - [Reinforcement Learning with Graph Neural Networks Enables Zero-Shot Deceptive Path Planning Over Arbitrary Graphs](https://github.com/myfatemi04/rl-deceptive-graph-planning) <br/>
   Michael Y. Fatemi, Wesley A. Suttle, Brian M. Sadler (AAMAS, 2024) (extended abstract)
 - [Spatial omics driven crossmodal pretraining applied to graph-based deep learning for cancer pathology analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC10783797/) <br/>
