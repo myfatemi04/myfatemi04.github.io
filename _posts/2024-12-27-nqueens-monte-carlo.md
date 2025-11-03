@@ -126,7 +126,7 @@ $$
 
 This is because $$g(x \mid x') = g(x' \mid  x)$$ in that case.
 
-Bringing it back to our problem, let's say that the proposal distribution is a mutation of some sorts. Like switching index $$i$$ and index $$j$$ of our list representation. There are $$n(n-1)$$ ways to make this switch, and each is sampled from uniformly randomly. Therefore, the proposal distribution is symmetric, and we can use the second simplified acceptance ratio.
+Bringing it back to our problem, let's say that the proposal distribution is a mutation of some sorts. Like switching index $$i$$ and index $$j$$ of our list representation. There are $$\frac{n(n-1)}{2}$$ ways to make this switch, and each is sampled from uniformly randomly. Therefore, the proposal distribution is symmetric, and we can use the second simplified acceptance ratio.
 
 Now, we wanted to use this to sample from $$q(x) \sim e^{-E(x)}$$. Then $$\log A(x', x) = \max(0, \log q(x') - \log q(x)) = \max(0, -(E(x') - E(x)))$$. In practical terms, this means we accept any mutation that reduces the number of conflicts, and accept mutations that increase the number of conflicts with exponential hesitancy.
 
@@ -338,9 +338,7 @@ plt.show()
 Here, we use the above energy function and corresponding gradient to perform Langevin Dynamics sampling over "good" N-queens boards. Concretely, at each step, we "should" do (see Eq.6 of [Yang Song's blog](https://yang-song.net/blog/2021/score/)):
 
 $$
-% \begin{align*}
 x_{t+1} \gets x_t - \epsilon_t \nabla_{x_t} E(x_t) + \sqrt{2 \epsilon_t} z,\quad z_{ij} \sim \mathcal{N}(0, I)
-% \end{align*}
 $$
 
 Where $$\epsilon_t$$ is a variance schedule. However I empirically found that just using no coefficient of $$\epsilon_t$$ led to better results. Additionally, because we are working with log probabilities, we must project to a simplex, as taking arbitrary gradient steps in log space may cause the probabilities to no longer sum to 1.
