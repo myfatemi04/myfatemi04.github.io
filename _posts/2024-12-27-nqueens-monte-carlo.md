@@ -238,7 +238,7 @@ It's possible that my current optimization space is not great. Maybe it's too ea
 
 Of course, the actual number of conflicts is a discontinuous function of $$x$$. We can try to make a continuous approximation, though. The way I'll try this is by marking the argmax of each row as a "de facto" queen. Then, we can count the number of "expected conflicts" by looking at the squares that this "de facto" queen attacks, and summing up the probabilities. We can see that for the discrete case, this is the same as simply counting the number of pairs of queens that attack each other.
 
-The energy function then becomes the following. Let $$\mathcal{G}$$ being the "de facto" queens; i.e. $$\{(i, j) : i \in \{1, \ldots, n\}, j : \forall k \in \{1, \ldots, n\}, k \neq j : x_{ij} > x_{ik} \}$$, and let $$\operatorname{Conflicts}(q)$$ represent the board squares that a queen at position $$q$$ attacks. Let's let $$\ell(q)$$ represent the log probability that a queen is the selected one in its row.
+The energy function then becomes the following. Let $$\mathcal{G}$$ represent the "de facto" queens; i.e. $$\{(i, j) : i \in \{1, \ldots, n\}, j : \forall k \in \{1, \ldots, n\}, k \neq j : x_{ij} > x_{ik} \}$$, and let $$\operatorname{Conflicts}(q)$$ represent the board squares that a queen at position $$q$$ attacks. Let's let $$\ell(q)$$ represent the log probability that a queen is the selected one in its row.
 
 $$
 \begin{align*}
@@ -505,7 +505,7 @@ plt.show()
 
 The acceptance probabilities seem really great compared to the Monte Carlo version, EVEN without explicitly adding the constraint that all queens belong to different columns. This suggests that continuous representations for optimization could possibly be even more efficient in higher dimensions than discrete counterparts.
 
-Maybe the next thing would be to consider is, how well can we learn a cost function simply from samples? If we trained a model purely with example N-queens solutions, would it be able to infer the cost function?
+Maybe the next thing to consider would be, how well can we learn a cost function simply from samples? If we trained a model purely with example N-queens solutions, would it be able to infer the cost function?
 
 Perhaps something concerning to note is the runtime. The Langevin approach takes quite a bit longer to run, possibly because we need to take gradient steps on large arrays.
 
