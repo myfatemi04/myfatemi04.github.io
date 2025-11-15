@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Michael Yoo Fatemi, an undergraduate studying Mathematics and Computer Science at the University of Virginia/UVA. I'm broadly interested in robotics and intelligent systems. This summer, I will be in Sunnyvale as an AI Resident at [1X Robotics](https://1x.tech/) working on foundation world models to train humanoid robots.
+Hi, I'm Michael Yoo Fatemi, an undergraduate studying Mathematics and Computer Science at the University of Virginia/UVA. I'm broadly interested in robotics and intelligent systems. This past summer, I worked as AI Resident at [1X Robotics](https://1x.tech/), on foundation world models.
 
 **I will be applying for a PhD in 2025 Fall. Please feel free to reach out, I would appreciate any connections!**
 
